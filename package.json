@@ -1,0 +1,19 @@
+{
+  "name": "resolute-foosball",
+  "version": "0.0.1",
+  "description": "Demonstration app for foosball requirements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kopickik/res-foosball.git"
+  },
+  "author": "Kyle Kopicki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kopickik/res-foosball/issues"
+  },
+  "homepage": "https://github.com/kopickik/res-foosball#readme"
+}
